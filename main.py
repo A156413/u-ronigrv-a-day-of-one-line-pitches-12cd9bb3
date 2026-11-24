@@ -12,9 +12,9 @@ working first version, no code and no excuses left.
 import os
 
 TEXT = (
-    "That app idea you've been sitting on for a year? "
+    "That app idea you've sat on for a year? "
     "Describe it in one sentence tonight and an AI agent "
-    "on make.fun builds you a working first version by "
+    "on make.fun builds your working first version by "
     "morning \u2014 no code, no excuses left."
 )
 
